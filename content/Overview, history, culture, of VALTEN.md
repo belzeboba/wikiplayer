@@ -1,25 +1,26 @@
 pisze rzeczy trzeba cos zacząć
+ok then
 
-> [!infobox]
-> # Name
-> ![[Image.png|cover hsmall]]
-> ###### Stats
-> |  |  |
-> | ---- | ---- |
-> | Largest territories | Lathorn . Necrin |
-> | **Official language** | Eastern common |
+> [!infobox|right wikipedia]+
+> # 
+> ![[map.jpg]] <center><font color="#7f7f7f">Map of the continent, 13th Ascension, year 170</font></center>
 > 
-> ##### 
-> |  |  |
-> | ---- | ---- |
-> |**Racial groups** |
-> 	- Human (71%),  
-> 	- Dwarf (12),  
-> 	- Half-elf (5) 
 > 
-> ######
-> | **Demonym** | The Divided |
-
+> ###### 
+> | **Largest territories** |  Table Header |
+> | ---- | --- |
+> | **Test** | Eastern common |
+> 
+> #  
+> | Population | dwindling |
+> | ---- | --- |
+> | **Test** | Eastern common |
+> 
+> # 
+> - Human (14%)
+> - Drarf (123)
+> - Half-Elf (7)
+> - your mom (2999)
 ### Etymology
 **"Valten"** derives from the angel Valt'ael, the patron angel of the family that created Lathorn. The god that made Valt'ael, the second angel ever created, is no longer around.
 
